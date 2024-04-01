@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react'
-import ReactPlayer from 'react-player'
 import { ControlBar, Player } from 'video-react';
 import 'video-react/dist/video-react.css'; // import css
 import Button from '../Button';
